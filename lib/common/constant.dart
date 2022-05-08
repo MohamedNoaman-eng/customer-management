@@ -1,0 +1,4 @@
+ String userDetailId;
+int whoIs;
+
+
